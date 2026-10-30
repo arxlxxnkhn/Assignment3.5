@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <h1>Atul Kumar Pal</h1>
+        <h1>Arsalaan Ali Khan</h1>
         <p>B.Tech CSE Student</p>
     </header>
 
